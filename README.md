@@ -7,7 +7,7 @@
 
 ### Repo initial setup
 ```
-git clone 
+git clone https://github.com/pushpender-singh-ap/AnimatedTabBar.git
 cd AnimatedTabBar
 npm install -g expo-cli
 npm install
